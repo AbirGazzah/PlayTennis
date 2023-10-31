@@ -1,0 +1,14 @@
+M1,Rain,Mild,High,Strong,No
+M2,Sunny,Hot,High,Strong,No
+M3,Overcast,Hot,High,Weak,Yes
+M4,Sunny,Cool,Normal,Weak,Yes
+M5,Rain,Cool,Normal,Weak,Yes
+M6,Rain,Cool,Normal,Strong,No
+M7,Overcast,Cool,Normal,Strong,Yes
+M8,Sunny,Mild,High,Weak,No
+M9,Rain,Mild,High,Weak,Yes
+M10,Rain,Mild,Normal,Weak,Yes
+M11,Sunny,Mild,Normal,Strong,Yes
+M12,Overcast,Mild,High,Strong,Yes
+M13,Overcast,Hot,Normal,Weak,Yes
+M14,Sunny,Hot,High,Weak,No

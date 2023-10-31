@@ -46,7 +46,7 @@ def CPD(X0, X1, X2, X3, y, py, pn):
 
 
 def main():
-    with open('./tennis_data.txt', 'r') as f:
+    with open('./data.txt', 'r') as f:
         data = f.readlines()
 
     py = 0.64
